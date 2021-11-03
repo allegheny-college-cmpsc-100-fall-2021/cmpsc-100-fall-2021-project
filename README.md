@@ -82,7 +82,7 @@ But those general goals are a bit too easy. There exist more requirements.
 
 |Component              |Due Date       | Weight |
 |:----------------------|:--------------|:-------|
-|Idea                   | 10 November    |40 pts. |
+|Idea                   | 12 November    |40 pts. |
 |Progress report        | 19 November   |40 pts. |
 |Final report           | 10 December   |40 pts. |
 |Final code and output  | 10 December   |80 pts. |
