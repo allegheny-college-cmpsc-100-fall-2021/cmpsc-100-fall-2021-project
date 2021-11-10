@@ -12,7 +12,7 @@ This document proposes the following areas for definition. They are the product 
 
 ## Bot behavior
 
-`TODO`
+The bot should not interact with anyone unless the user has given permission for the bot to interact with them, whether that be a follow or an @ mention. The bot shouldn't say phrases that could be offensive or use any specific language that is offensive. The bot should not release so much information that it cannot be manually monitored. 
 
 ## Consquences
 
