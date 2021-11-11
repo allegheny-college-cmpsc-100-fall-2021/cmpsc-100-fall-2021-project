@@ -8,7 +8,11 @@ This document proposes the following areas for definition. They are the product 
 
 ## Tweet content
 
-`TODO`
+* Should not @mention users that haven opted in
+* Should not follow users that haven't opted in
+* Should not use a preexisting #hashtag
+* Should not go over rate limits
+* Anticipate the deliberate misuse of the bot
 
 ## Bot behavior
 
