@@ -4,6 +4,7 @@ This document proposes the following areas for definition. They are the product 
 
 ## Teamwork guidelines
 
+<<<<<<< HEAD
 - Our team should meet once a week on a specific day.
 - Our team will turn work in on Thursday at midnight every week in order to make deadlines.
 - Have a team groupchat that is active
@@ -20,6 +21,20 @@ This document proposes the following areas for definition. They are the product 
 - No spam
 - Do not immitate another account
 - Do not follow people who do not follow the bot
+=======
+
+
+## Tweet content
+
+
+
+
+## Bot behavior
+
+The bot should act under the same expectations as a normal, decent user. It should not say anything harmful towards anyone or say anything that would be condescending towards any groups of people. The bot should also add something positive to the platform, even if it's slight entertainment. 
+
+
+>>>>>>> 997c565fc65ce286356a53e81f07b0d08e8f45ab
 
 ## Consquences
 
@@ -28,6 +43,7 @@ This document proposes the following areas for definition. They are the product 
 
 ### Teamwork
 
+<<<<<<< HEAD
 - Everyone can work on their own but you should contribute to the group as a whole
 - When you finish work, let everyone know what you have done
 - Let the group know when you cannot do something and make sure to have a good excuse
@@ -36,6 +52,20 @@ This document proposes the following areas for definition. They are the product 
 
 - Do your best to make something unique
 - Help when you can
+=======
+
+If we do not work together, the effect of this will be that the project is more stressful and difficult. So, if someone is not working on the project, we should have a team conversation about this. Depending on what the group decides about the ammount of work they are not participating in, the team will talk to Professor Luman and propose a certian ammount of points that we think they should lose on the assignment. Of course, before we do this official conversation with the Professor, we will talk to the team member and give them an opportunity to catch up.  
+
+
+### Content
+
+>>>>>>> 997c565fc65ce286356a53e81f07b0d08e8f45ab
 
 
 
+<<<<<<< HEAD
+=======
+
+If the bot is not behaving well, we will immadiately stop it from tweeting until we can fix the problem. We will also delete any objectionable tweets. 
+
+>>>>>>> 997c565fc65ce286356a53e81f07b0d08e8f45ab
