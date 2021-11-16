@@ -2,37 +2,57 @@
 
 ## Title
 
-Daily Song Recommendation Bot
+`TODO`
 
 ## Description of project
 
-This is a bot that will give a daily song recommendation from spotify.
+`TODO`
+
+## Description of project
+
+`TODO`
 
 ### Classification
 
 Place an `x` in the appropriate `[ ]` below.
 
-- [x] Uncreative
+- [ ] Uncreative
 - [ ] Procedural
 - [ ] Data-driven
 - [ ] Graffiti
 
 ### If you plan to use any data sources, what are they and why?
 
-We will be using Spotify API in order to find a song to recommend.
+`TODO`
 
 ### Tentative description of ideal output
 
-The output will be the song title and artist name.
+`TODO`
 
 ## Statement of motivation/interest
 
-Everyone likes music and like to find new songs to listen to, so this bot will be able to satisfy their interests and that is our motivations.
+`TODO`
 
 ## Perceived or realized challenges
 
-A challenge will orobably be how exactly we get the API from apotify to the bot.
+`TODO`
 
 ## Comment below on the ethical challenges that your concept faces.
 
-There are not really any ethical challenges other than maybe the bot will recommend a song that could be offensive or have offensive language.
+`TODO`
+
+### Tentative description of ideal output
+
+`TODO`
+
+## Statement of motivation/interest
+
+`TODO`
+
+## Perceived or realized challenges
+
+`TODO`
+
+## Comment below on the ethical challenges that your concept faces.
+
+`TODO`
