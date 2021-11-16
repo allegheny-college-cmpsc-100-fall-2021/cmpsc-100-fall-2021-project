@@ -12,11 +12,10 @@ This document proposes the following areas for definition. They are the product 
 
 ## Tweet content
 
-- Something cool.
+
 
 ## Bot behavior
 
-- Something cool.
 
 ## Consquences
 
@@ -25,11 +24,38 @@ This document proposes the following areas for definition. They are the product 
 ### Teamwork
 
 - Follows the the teamwork guidelines.
+-all members join discord group chat
+-each member contributes an equal amount
 
 ### Content
 
-- Something cool.
 
 ### Bot behavior
 
-- Something cool.
+
+## Tweet content
+
+-only contains content within the guidelines defined by twitter
+
+## Bot behavior
+
+-works as intended by the group
+
+## Consquences
+
+-members who do not contribute adequately will not receive a sticker
+-members who hinder other members will be removed... (not really)
+
+### Teamwork
+
+-each team member actively communicates
+-work distributed evenly so each member can contribute
+
+### Content
+
+-includes necessary code to make bot work
+-content follows twitter guidelines
+
+### Bot behavior
+
+-works as a fully functioning twitter bot that can be accessed and engaged with by the community
