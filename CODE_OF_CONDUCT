@@ -65,20 +65,22 @@ Bot should not follow or mention other Twitter users un-provoked
 - Do not infiltrate a hashtag
 - Do not tag a person who is not following the bot 
 - Do not use offensive language
+- Do not repeat tweeting the same tweet
+- Do not tweet false news
 
 ## Bot behavior
 
 - No spam
 - Do not immitate another account
 - Do not follow people who do not follow the bot
-
+- Do not randomly tag another account
+- Do not randomly direct message another account
 
 ## Tweet content
 
 ## Bot behavior
 
 The bot should act under the same expectations as a normal, decent user. It should not say anything harmful towards anyone or say anything that would be condescending towards any groups of people. The bot should also add something positive to the platform, even if it's slight entertainment. 
-
 
 ## Consquences
 
@@ -101,6 +103,8 @@ Bot behaving in desired way will result in bot maintaining its existence--yay!
 - Everyone can work on their own but you should contribute to the group as a whole
 - When you finish work, let everyone know what you have done
 - Let the group know when you cannot do something and make sure to have a good excuse
+- If the group is unable to complete a certain portion of the work make sure to catch up on doing it and forget about it for later.
+- Help another group member out on a portion of their work they may need help on
 
 ### Content
 
@@ -157,6 +161,12 @@ removal of the bot as negitive consequenses.
 * Do not imitate any accounts
 * Do not follow people who's not following the bot
 
+## Tweet content
+
+Make sure tweets include language that won't be offensive to any users. The content of each tweet should be enjoyable for all users. The tweet won't be long, but whatever message it conveys should make logical sense. For safety purposes, do not hashta anything or "@" anyone.
+
+## Bot behavior
+
 
 ## Consquences
 
@@ -164,6 +174,12 @@ removal of the bot as negitive consequenses.
 * Have person to do other work to for missed work or meetings 
 
 ### Teamwork
+
+If the team does not work together, it will take more time for our project
+to get done. It may also lead to people having overlapping code that may 
+hinder the program. Positive consequences of working together will have the 
+opposite effect of the afforementioned results. We will get our program done
+faster and at a higher quality.
 
 ### Content
 
@@ -176,6 +192,10 @@ If something offensive is tweeted, the bot could be taken down. Hashtagging and 
 ### Bot behavior
 
 * Needs to reference other third-party sources if we are going to use one 
+
+### Content
+
+If something offensive is tweeted, the bot could be taken down. Hashtagging and "@"ing users could bring complicity that is unneeded. If the tweet is not enjoyable, users got become upset and report the account. 
 
 ## Bot behavior
 
