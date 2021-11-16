@@ -4,26 +4,32 @@ This document proposes the following areas for definition. They are the product 
 
 ## Teamwork guidelines
 
-* Everyone should make a really great contribution all the time; the professor is watching.
+-all members join discord group chat
+-each member contributes an equal amount
 
 ## Tweet content
 
-`TODO`
+-only contains content within the guidelines defined by twitter
 
 ## Bot behavior
 
-`TODO`
+-works as intended by the group
 
 ## Consquences
 
+-members who do not contribute adequately will not receive a sticker
+-members who hinder other members will be removed... (not really)
+
 ### Teamwork
 
-`TODO`
+-each team member actively communicates
+-work distributed evenly so each member can contribute
 
 ### Content
 
-`TODO`
+-includes necessary code to make bot work
+-content follows twitter guidelines
 
-## Bot behavior
+### Bot behavior
 
-`TODO`
+-works as a fully functioning twitter bot that can be accessed and engaged with by the community
