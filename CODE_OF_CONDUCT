@@ -18,12 +18,16 @@ This document proposes the following areas for definition. They are the product 
 - Do not infiltrate a hashtag
 - Do not tag a person who is not following the bot 
 - Do not use offensive language
+- Do not repeat tweeting the same tweet
+- Do not tweet false news
 
 ## Bot behavior
 
 - No spam
 - Do not immitate another account
 - Do not follow people who do not follow the bot
+- Do not randomly tag another account
+- Do not randomly direct message another account
 =======
 
 
@@ -48,6 +52,8 @@ The bot should act under the same expectations as a normal, decent user. It shou
 - Everyone can work on their own but you should contribute to the group as a whole
 - When you finish work, let everyone know what you have done
 - Let the group know when you cannot do something and make sure to have a good excuse
+- If the group is unable to complete a certain portion of the work make sure to catch up on doing it and forget about it for later.
+- Help another group member out on a portion of their work they may need help on
 
 ### Content
 
